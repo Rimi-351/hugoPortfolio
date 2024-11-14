@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Tribute Page
+date: 2024-10-14
+external_link: https://md-imon-jahan.github.io/tribute-page/
+# tags:
+#   - Hugo
+#   - Wowchemy
+#   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+This is a project for the Tribute page.
 
 <!--more-->

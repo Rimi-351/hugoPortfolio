@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact | IMON&#39;s PORTFOLIO</title>
+    <link>http://localhost:1313/tags/contact/</link>
+      <atom:link href="http://localhost:1313/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contact</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Contact</title>
+      <link>http://localhost:1313/tags/contact/</link>
+    </image>
+    
+    <item>
+      <title>Connect With me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;hr&gt;
+&lt;h3 id=&#34;contact-information&#34;&gt;&lt;strong&gt;Contact Information&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:sadnansami50@gmail.com&#34;&gt;sadnansami50@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 01521221566&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/md-imon-jahan-036522328/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/MD-IMON-JAHAN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;copyright--disclaimer&#34;&gt;&lt;strong&gt;Copyright &amp;amp; Disclaimer&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&#34;copy-2024-md-imon-jahan-all-rights-reserved&#34;&gt;© 2024 MD. IMON JAHAN. All rights reserved.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
