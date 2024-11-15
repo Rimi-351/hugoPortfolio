@@ -1,7 +1,7 @@
 ---
 title: Tic Tac Toe Project
 date: 2024-10-25
-external_link: https://md-imon-jahan.github.io/Tic-Tac-Toe/
+external_link: https://github.com/Rimi-351/Tic-Tac-Toe-Game-using-React.
 # tags:
 #   - Hugo
 #   - Wowchemy

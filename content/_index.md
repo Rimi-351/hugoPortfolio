@@ -18,7 +18,7 @@ sections:
       button:
         text: Download CV
         # url: uploads/resume.pdf
-        url: /cvresume_imon.pdf
+        url: /cvRimi.pdf
     design:
       css_class: dark
       background:
@@ -122,8 +122,8 @@ sections:
   #       css_class: "bg-primary-700"
   #       css_style: ""
 ---
-# MD. IMON JAHAN  
-*Front-End Developer*  
+# FATEMA AKTER RIMI 
+*Under Graduate Student*  
 Jahangirnagar University  
 [Your Contact Information]  
 [Your LinkedIn or Portfolio URL]
@@ -139,16 +139,14 @@ A dedicated and skilled Front-End Developer with a strong educational background
 ### **Education**
 
 **Jahangirnagar University**  
-Bachelor of Science in [Your Major]  
-[Expected Graduation Year or Graduation Year]
+Bachelor of Science in [CSE Major]  
+[Expected Graduation Year : 2026]
 
-**Notre Dame College, Dhaka**  
+**BPATC School and College**  
 Higher Secondary Certificate (HSC) | GPA: 5.00  
-[Year of Completion]
-
-**RBMGBHS (Secondary School)**  
+[2020] 
 Secondary School Certificate (SSC) | GPA: 5.00  
-[Year of Completion]
+[2018]
 
 ---
 
@@ -188,7 +186,9 @@ Secondary School Certificate (SSC) | GPA: 5.00
 
 ### **Contact Information**
 
-- Email: [Your Email]
-- Phone: [Your Phone Number]
-- LinkedIn: [LinkedIn URL]
-- GitHub: [GitHub URL]
+- Email: [fatemarimi2020@gmail.com]
+- Phone: [+8801810825804]
+- GitHub: [[GitHub URL](https://github.com/Rimi-351)]
+- Facebook[https://www.facebook.com/profile.php?id=100070440454582&mibextid=kFxxJD]
+
+ 

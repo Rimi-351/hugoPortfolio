@@ -1,62 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | IMON&#39;s PORTFOLIO</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | RIMI&#39;s PORTFOLIO</title>
+    <link>http://localhost:51484/project/</link>
+      <atom:link href="http://localhost:51484/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:51484/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>http://localhost:51484/project/</link>
     </image>
     
     <item>
-      <title>Complete Survey Form</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <title>Balance Sheet</title>
+      <link>http://localhost:51484/project/pandas/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;This is the Survey form Project&lt;/p&gt;</description>
+      <guid>http://localhost:51484/project/pandas/</guid>
+      <description>&lt;p&gt;This is the Balance Sheet Project&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Camper Cafe FreeCodeCamp</title>
+      <link>http://localhost:51484/project/cafe/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51484/project/cafe/</guid>
+      <description>&lt;p&gt;This is a Camper Cafe FreeCodeCamp project.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Product Landing</title>
-      <link>http://localhost:1313/project/landing/</link>
+      <link>http://localhost:51484/project/landing/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/landing/</guid>
+      <guid>http://localhost:51484/project/landing/</guid>
       <description>&lt;p&gt;This is a Product Landing page project.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Technical Documentation Page</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>http://localhost:51484/project/scikit/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>http://localhost:51484/project/scikit/</guid>
       <description>&lt;p&gt;This is a technical documentaion page.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Personal portfolio Webpage</title>
-      <link>http://localhost:1313/project/toolkit/</link>
+      <link>http://localhost:51484/project/toolkit/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/toolkit/</guid>
+      <guid>http://localhost:51484/project/toolkit/</guid>
       <description>&lt;p&gt;This is a Personal portfolio Webpage.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tic Tac Toe Project</title>
-      <link>http://localhost:1313/project/tictactoe/</link>
+      <link>http://localhost:51484/project/tictactoe/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tictactoe/</guid>
+      <guid>http://localhost:51484/project/tictactoe/</guid>
       <description>&lt;p&gt;This is a Tic Tac Toe project.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tribute Page</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>http://localhost:51484/project/pytorch/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>http://localhost:51484/project/pytorch/</guid>
       <description>&lt;p&gt;This is a project for the Tribute page.&lt;/p&gt;</description>
     </item>
     

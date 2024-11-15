@@ -14,14 +14,13 @@ image:
 
 ### **Contact Information**
 
-- **Email:** sadnansami50@gmail.com
-- **Phone:** 01521221566
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-imon-jahan-036522328/)
-- **GitHub:** [GitHub Profile](https://github.com/MD-IMON-JAHAN)
-
+- **Email:** fatemarimi2020@gmail.com
+- **Phone:** 01810825804
+- **GitHub:** [GitHub Profile](https://github.com/Rimi-351)
+- **Facebook:** [GitHub Profile](https://www.facebook.com/profile.php?id=100070440454582&mibextid=kFxxJD)
 ---
 
 ### **Copyright & Disclaimer**
 
-&copy; 2024 MD. IMON JAHAN. All rights reserved.
+&copy; 2024 FATEMA AKTER RIMI. All rights reserved.
 ---
